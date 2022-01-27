@@ -18,7 +18,7 @@ on:
     - '.github/workflows/sentinel-deploy-27e4e187-44a2-4461-962e-10ae719406cf.yml'
 
 jobs:
-  deploy-content:
+  deploy-content-2:
     runs-on: windows-latest
     env:
       resourceGroupName: 'cac-test-rg'
